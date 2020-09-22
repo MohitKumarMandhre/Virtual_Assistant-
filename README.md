@@ -25,6 +25,14 @@
 - voice[0].id = Male voice 
 - voice[1].id = Female voice
 
+## Recapitulate
+
+1. First of all, we have created a wishme() function that gives the functionality of greeting according to the system time to our A.I.
+2. After wishme() function, we have created a takeCommand() function, which helps our A.I to take command from the user. This function is also responsible for returning the user's query in a string format.
+3. We developed the code logic for opening different websites like google, youtube, and stack overflow.
+4. Developed code logic for opening VS Code or any other application.
+5. At last, we added functionality to send emails.
+
 # Is it an A.I.?
 
 - A lot of people will argue that the virtual assistant that we have created is not an A.I, but it is the output of the bunch of the statement. But, if we look at the very basic level, the sole purpose of A.I is to develop machines that can perform human tasks with the same effectiveness or even more effectively than humans.
